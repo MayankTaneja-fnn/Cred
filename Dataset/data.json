@@ -1,0 +1,201 @@
+[
+  {
+    "id": "F001",
+    "source": "Delhi",
+    "destination": "Mumbai",
+    "date": "01/08/2026",
+    "startTime": "10:30",
+    "endTime": "13:10",
+    "duration": "2h 40m"
+  },
+  {
+    "id": "F002",
+    "source": "Mumbai",
+    "destination": "Bengaluru",
+    "date": "01/08/2026",
+    "startTime": "15:15",
+    "endTime": "18:45",
+    "duration": "3h 30m"
+  },
+  {
+    "id": "F022",
+    "source": "Delhi",
+    "destination": "Chennai",
+    "date": "01/08/2026",
+    "startTime": "10:15",
+    "endTime": "13:45",
+    "duration": "3h 30m"
+  },
+  {
+    "id": "F003",
+    "source": "Chennai",
+    "destination": "Hyderabad",
+    "date": "01/08/2026",
+    "startTime": "14:20",
+    "endTime": "16:40",
+    "duration": "2h 20m"
+  },
+  {
+    "id": "F023",
+    "source": "Hyderabad",
+    "destination": "Bengaluru",
+    "date": "01/08/2026",
+    "startTime": "17:20",
+    "endTime": "19:40",
+    "duration": "2h 20m"
+  },
+
+  {
+    "id": "F004",
+    "source": "Kolkata",
+    "destination": "Delhi",
+    "date": "01/08/2026",
+    "startTime": "07:40",
+    "endTime": "09:10",
+    "duration": "1h 30m"
+  },
+  {
+    "id": "F005",
+    "source": "Bengaluru",
+    "destination": "Pune",
+    "date": "02/08/2026",
+    "startTime": "13:20",
+    "endTime": "15:50",
+    "duration": "2h 30m"
+  },
+  {
+    "id": "F006",
+    "source": "Pune",
+    "destination": "Ahmedabad",
+    "date": "03/08/2026",
+    "startTime": "05:50",
+    "endTime": "09:00",
+    "duration": "3h 10m"
+  },
+  {
+    "id": "F007",
+    "source": "Jaipur",
+    "destination": "Delhi",
+    "date": "01/08/2026",
+    "startTime": "09:10",
+    "endTime": "10:55",
+    "duration": "1h 45m"
+  },
+  {
+    "id": "F008",
+    "source": "Hyderabad",
+    "destination": "Chennai",
+    "date": "02/08/2026",
+    "startTime": "11:35",
+    "endTime": "14:10",
+    "duration": "2h 35m"
+  },
+  {
+    "id": "F009",
+    "source": "Ahmedabad",
+    "destination": "Mumbai",
+    "date": "03/08/2026",
+    "startTime": "04:55",
+    "endTime": "07:25",
+    "duration": "2h 30m"
+  },
+  {
+    "id": "F010",
+    "source": "Mumbai",
+    "destination": "Delhi",
+    "date": "01/08/2026",
+    "startTime": "15:05",
+    "endTime": "16:05",
+    "duration": "1h 00m"
+  },
+  {
+    "id": "F011",
+    "source": "Delhi",
+    "destination": "Kolkata",
+    "date": "02/08/2026",
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "duration": "1h 00m"
+  },
+  {
+    "id": "F012",
+    "source": "Bengaluru",
+    "destination": "Mumbai",
+    "date": "03/08/2026",
+    "startTime": "12:10",
+    "endTime": "15:40",
+    "duration": "3h 30m"
+  },
+  {
+    "id": "F013",
+    "source": "Chennai",
+    "destination": "Bengaluru",
+    "date": "01/08/2026",
+    "startTime": "06:45",
+    "endTime": "08:20",
+    "duration": "1h 35m"
+  },
+  {
+    "id": "F014",
+    "source": "Hyderabad",
+    "destination": "Delhi",
+    "date": "02/08/2026",
+    "startTime": "14:25",
+    "endTime": "16:45",
+    "duration": "2h 20m"
+  },
+  {
+    "id": "F015",
+    "source": "Kolkata",
+    "destination": "Bengaluru",
+    "date": "03/08/2026",
+    "startTime": "07:20",
+    "endTime": "10:55",
+    "duration": "3h 35m"
+  },
+  {
+    "id": "F016",
+    "source": "Delhi",
+    "destination": "Chennai",
+    "date": "01/08/2026",
+    "startTime": "10:40",
+    "endTime": "16:20",
+    "duration": "5h 40m"
+  },
+  {
+    "id": "F017",
+    "source": "Mumbai",
+    "destination": "Hyderabad",
+    "date": "02/08/2026",
+    "startTime": "17:15",
+    "endTime": "20:05",
+    "duration": "2h 50m"
+  },
+  {
+    "id": "F018",
+    "source": "Ahmedabad",
+    "destination": "Delhi",
+    "date": "03/08/2026",
+    "startTime": "09:30",
+    "endTime": "12:00",
+    "duration": "2h 30m"
+  },
+  {
+    "id": "F019",
+    "source": "Pune",
+    "destination": "Mumbai",
+    "date": "01/08/2026",
+    "startTime": "16:00",
+    "endTime": "17:45",
+    "duration": "1h 45m"
+  },
+  {
+    "id": "F020",
+    "source": "Delhi",
+    "destination": "Bengaluru",
+    "date": "01/08/2026",
+    "startTime": "18:10",
+    "endTime": "02:05",
+    "duration": "7h 55m"
+  }
+]
